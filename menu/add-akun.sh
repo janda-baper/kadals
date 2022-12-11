@@ -164,7 +164,7 @@ cat > /home/vps/public_html/ss-ws-$user.txt <<-END
           "headers": {
             "Host": "$domain"
           },
-          "path": "/xrayssws"
+          "path": "/kadals"
         }
       },
       "tag": "proxy"

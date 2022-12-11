@@ -112,7 +112,7 @@ cat > /etc/xray/config.json << END
        "streamSettings":{
          "network": "ws",
             "wsSettings": {
-                "path": "/xrayws"
+                "path": "/worryfree"
           }
         }
      },
@@ -131,7 +131,7 @@ cat > /etc/xray/config.json << END
        "streamSettings":{
          "network": "ws",
             "wsSettings": {
-                "path": "/xrayvws"
+                "path": "/"
           }
         }
      },
@@ -151,7 +151,7 @@ cat > /etc/xray/config.json << END
        "streamSettings":{
            "network": "ws",
            "wsSettings": {
-               "path": "/xraytrojanws"
+               "path": "/kadals"
             }
          }
      },
@@ -172,7 +172,7 @@ cat > /etc/xray/config.json << END
        "streamSettings":{
           "network": "ws",
              "wsSettings": {
-               "path": "/xrayssws"
+               "path": "/kadals"
            }
         }
      },	
